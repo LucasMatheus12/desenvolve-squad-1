@@ -2,3 +2,5 @@
 
 ## Integrantes
 [Pedro Gomes](https://github.com/pgomesdev)
+
+[Stephane Malo](https://github.com/gstephanie)
