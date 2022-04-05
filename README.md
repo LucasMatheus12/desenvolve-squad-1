@@ -2,4 +2,6 @@
 
 ## Integrantes
 
-- Liliam Oliveira (GitHub: https://github.com/Liliam-Oliveira)
+[Pedro Gomes] (https://github.com/pgomesdev)
+[Liliam Oliveira] (https://github.com/Liliam-Oliveira)
+
